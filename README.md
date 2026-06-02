@@ -54,14 +54,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iluass333x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iluass333x&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iluas333x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iluas333x&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iluass333x&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Iluas333x&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-iluass333x-181717?style=for-the-badge&logo=github)](https://github.com/iluass333x)
+[![GitHub](https://img.shields.io/badge/GitHub-Iluas333x-181717?style=for-the-badge&logo=github)](https://github.com/Iluas333x)
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iluass333x&color=00d4ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Iluas333x&color=00d4ff&style=flat-square&label=Profile+Views)
 
 *"First, solve the problem. Then, write the code."*
 
