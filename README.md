@@ -9,13 +9,33 @@ iliass@github:~$ whoami
 ```bash
 iliass@github:~$ cat status.txt
 ```
-> currently in the **42 Piscine** — C & shell qualifying stage · Morocco 🇲🇦
+> ✅ **Passed the 42 Piscine** — C & shell qualifying stage · Morocco 🇲🇦
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=560&lines=%24+42+piscine+--status;%3E+in+progress...;%24+ls+~%2Fprojects;%3E+android+%7C+php+%7C+js+%7C+c)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=560&lines=%24+42+piscine+--status;%3E+passed+%E2%9C%94;%24+ls+~%2Fprojects;%3E+android+%7C+php+%7C+js+%7C+c)
 
 </div>
+
+---
+
+```bash
+iliass@github:~$ neofetch
+```
+
+```
+        ___           ___           ___                       iliass@github
+       /  /\         /__/\         /  /\          OS: Morocco 🇲🇦
+      /  /::\       |  |::\       /  /:/          Shell: 42 Piscine — Passed ✔
+     /  /:/\:\      |  |:|:\     /  /:/            Uptime: still shipping
+    /  /:/~/::\   __|__|:|\:\   /  /:/  ___        Languages: C, Kotlin, PHP, JS
+   /__/:/ /:/\:\ /__/::::| \:\ /__/:/  /  /\       Tools: Git, Linux, MySQL
+   \  \:\/:/__\/ \  \:\~~\__\/ \  \:\ /  /:/       Focus: Android · Web · C
+    \  \::/       \  \:\        \  \:\  /:/        Status: open to work 🟢
+     \  \:\        \  \:\        \  \:\/:/
+      \  \:\        \  \:\        \  \::/
+       \__\/         \__\/         \__\/
+```
 
 ---
 
@@ -83,6 +103,16 @@ iliass@github:~$ ./stats.sh --github
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Iluas333x&theme=nightowl&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)](https://git.io/streak-stats)
+
+</div>
+
+```bash
+iliass@github:~$ ./trophies.sh
+```
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Iluas333x&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
