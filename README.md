@@ -2,11 +2,11 @@
 
 # Hey, I'm Iliass 👋
 
-### Software Developer · 42 School Student · Morocco 🇲🇦
+### Software Developer · Currently in the 42 Piscine · Morocco 🇲🇦
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Developer;42+School+%E2%80%94+C+Piscine;Android+%7C+PHP+%7C+JavaScript;Building+things+that+matter.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Developer;Currently+in+the+42+Piscine;Android+%7C+PHP+%7C+JavaScript;Building+things+that+matter.)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Working through the **42 School Piscine** — intensive low-level C and shell programming
+- 🔭 Currently doing the **42 Piscine** — the intensive C and shell qualifying stage for 42 School (not yet a full student)
 - 📱 Building Android apps in **Kotlin**
 - 🌐 Comfortable across the stack: **PHP** backends, vanilla **JS** front-ends, and small full CRUD systems
 - 🎨 I care about design as much as function — clean UI, smooth interactions
@@ -44,7 +44,7 @@
 | [**reservation-system-php**](https://github.com/Iluas333x/reservation-system-php) | PHP reservation/booking system with user registration and login |
 | [**php-crud-gallery**](https://github.com/Iluas333x/php-crud-gallery) | PHP CRUD app with an image gallery |
 | [**js-crud-app**](https://github.com/Iluas333x/js-crud-app) | Client-side CRUD app built with vanilla JS and jQuery |
-| [**42-piscine-c02**](https://github.com/Iluas333x/42-piscine-c02) / [**c06**](https://github.com/Iluas333x/42-piscine-c06) | 42 School Piscine — C exercises |
+| [**42-piscine-c02**](https://github.com/Iluas333x/42-piscine-c02) / [**c06**](https://github.com/Iluas333x/42-piscine-c06) | 42 Piscine — C exercises |
 
 ---
 
