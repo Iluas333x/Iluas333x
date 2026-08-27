@@ -1,84 +1,109 @@
 <div align="center">
 
-# Hey, I'm Iliass 👋
+```bash
+iliass@github:~$ whoami
+```
 
-### Software Developer · Currently in the 42 Piscine · Morocco 🇲🇦
+# Iliass
+
+```bash
+iliass@github:~$ cat status.txt
+```
+> currently in the **42 Piscine** — C & shell qualifying stage · Morocco 🇲🇦
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Developer;Currently+in+the+42+Piscine;Android+%7C+PHP+%7C+JavaScript;Building+things+that+matter.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=560&lines=%24+42+piscine+--status;%3E+in+progress...;%24+ls+~%2Fprojects;%3E+android+%7C+php+%7C+js+%7C+c)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+```bash
+iliass@github:~$ cat skills.sh
+```
 
-- 🔭 Currently doing the **42 Piscine** — the intensive C and shell qualifying stage for 42 School (not yet a full student)
-- 📱 Building Android apps in **Kotlin**
-- 🌐 Comfortable across the stack: **PHP** backends, vanilla **JS** front-ends, and small full CRUD systems
-- 🎨 I care about design as much as function — clean UI, smooth interactions
-- 🌍 Based in Morocco 🇲🇦 — bilingual in Arabic / French / English
-- 🚀 Always learning, always shipping
-
----
-
-## 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [**citroensplash**](https://github.com/Iluas333x/citroensplash) | Android app for car head units — branded boot splash screen with settings toggle |
-| [**reservation-system-php**](https://github.com/Iluas333x/reservation-system-php) | PHP reservation/booking system with user registration and login |
-| [**php-crud-gallery**](https://github.com/Iluas333x/php-crud-gallery) | PHP CRUD app with an image gallery |
-| [**js-crud-app**](https://github.com/Iluas333x/js-crud-app) | Client-side CRUD app built with vanilla JS and jQuery |
-| [**42-piscine-c02**](https://github.com/Iluas333x/42-piscine-c02) / [**c06**](https://github.com/Iluas333x/42-piscine-c06) | 42 Piscine — C exercises |
-
----
-
-## 📊 GitHub Stats
+```bash
+#!/bin/sh
+languages="C Kotlin PHP JavaScript HTML CSS"
+tools="Git Linux MySQL"
+echo "Languages: $languages"
+echo "Tools:     $tools"
+```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iluas333x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iluas333x&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Iluas333x&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=00FF9C)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF9C)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF9C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=00FF9C)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=00FF9C)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+```bash
+iliass@github:~$ ls projects/
+```
+
+```
+drwxr-xr-x  citroensplash/            # Android boot-splash app for car head units (Kotlin)
+drwxr-xr-x  reservation-system-php/   # Booking system — login, register, reserve (PHP)
+drwxr-xr-x  php-crud-gallery/         # CRUD app with image gallery (PHP + MySQL)
+drwxr-xr-x  js-crud-app/              # Task manager, vanilla JS + jQuery
+drwxr-xr-x  table-generator-js/       # Dynamic HTML table generator (JS)
+drwxr-xr-x  color-theme-switcher/     # Live background color switcher (JS)
+drwxr-xr-x  42-piscine-c02/           # 42 Piscine — C exercises
+drwxr-xr-x  42-piscine-c06/           # 42 Piscine — C exercises
+```
+
+```bash
+iliass@github:~$ cat projects/citroensplash/README.md | head -3
+```
+> Android app for car head units — branded boot splash screen with a settings toggle.
+> [→ open repo](https://github.com/Iluas333x/citroensplash)
+
+---
+
+```bash
+iliass@github:~$ ./stats.sh --github
+```
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Iluas333x-181717?style=for-the-badge&logo=github)](https://github.com/Iluas333x)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Iluas333x&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iluas333x&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Iluas333x&theme=nightowl&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+```bash
+iliass@github:~$ cat contact.txt
+```
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Iluas333x&color=00d4ff&style=flat-square&label=Profile+Views)
+[![GitHub](https://img.shields.io/badge/-Iluas333x-000000?style=flat-square&logo=github&logoColor=00FF9C)](https://github.com/Iluas333x)
 
-*"First, solve the problem. Then, write the code."*
+</div>
+
+```bash
+iliass@github:~$ echo "first, solve the problem. then, write the code."
+```
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Iluas333x&color=0d1117&style=flat-square&label=views)
 
 </div>
