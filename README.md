@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey, I'm Iluass 👋
+# Hey, I'm Iliass 👋
 
-### Full Stack Developer · C · C# · Python
+### Software Developer · 42 School Student · Morocco 🇲🇦
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;C+%7C+C%23+%7C+Python+Engineer;Building+things+that+matter.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Developer;42+School+%E2%80%94+C+Piscine;Android+%7C+PHP+%7C+JavaScript;Building+things+that+matter.)
 
 </div>
 
@@ -14,39 +14,37 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm a **Full Stack Developer** who loves building end-to-end solutions
-- 💡 I enjoy working across the stack — from low-level **C/C#** to modern web
-- 🐍 **Python** is my go-to for scripting, automation, and backend work
-- 🌍 Based in Morocco 🇲🇦
+- 🔭 Working through the **42 School Piscine** — intensive low-level C and shell programming
+- 📱 Building Android apps in **Kotlin**
+- 🌐 Comfortable across the stack: **PHP** backends, vanilla **JS** front-ends, and small full CRUD systems
+- 🎨 I care about design as much as function — clean UI, smooth interactions
+- 🌍 Based in Morocco 🇲🇦 — bilingual in Arabic / French / English
 - 🚀 Always learning, always shipping
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| [**citroensplash**](https://github.com/Iluas333x/citroensplash) | Android app for car head units — branded boot splash screen with settings toggle |
+| [**reservation-system-php**](https://github.com/Iluas333x/reservation-system-php) | PHP reservation/booking system with user registration and login |
+| [**php-crud-gallery**](https://github.com/Iluas333x/php-crud-gallery) | PHP CRUD app with an image gallery |
+| [**js-crud-app**](https://github.com/Iluas333x/js-crud-app) | Client-side CRUD app built with vanilla JS and jQuery |
+| [**42-piscine-c02**](https://github.com/Iluas333x/42-piscine-c02) / [**c06**](https://github.com/Iluas333x/42-piscine-c06) | 42 School Piscine — C exercises |
 
 ---
 
