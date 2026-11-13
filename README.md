@@ -11,11 +11,7 @@ iliass@github:~$ cat status.txt
 ```
 "I don't code to work. I code because it's fun to make things work."
 
-<br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=560&lines=%24+42+piscine+--status;%3E+passed+%E2%9C%94;%24+ls+~%2Fprojects;%3E+android+%7C+php+%7C+js+%7C+c)
-
-</div>
 
 ---
 
