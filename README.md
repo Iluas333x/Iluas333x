@@ -25,8 +25,8 @@ iliass@github:~$ neofetch
 
 ```
         ___           ___           ___                       iliass@github
-       /  /\         /__/\         /  /\          OS: Morocco 🇲🇦
-      /  /::\       |  |::\       /  /:/          Shell: 42 Piscine — Passed ✔
+       /  /\         /__/\         /  /\
+      /  /::\       |  |::\       /  /:/           OS: Morocco 🇲🇦         
      /  /:/\:\      |  |:|:\     /  /:/            Uptime: still shipping
     /  /:/~/::\   __|__|:|\:\   /  /:/  ___        Languages: C, Kotlin, PHP, JS
    /__/:/ /:/\:\ /__/::::| \:\ /__/:/  /  /\       Tools: Git, Linux, MySQL
