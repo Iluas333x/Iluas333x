@@ -9,7 +9,7 @@ iliass@github:~$ whoami
 ```bash
 iliass@github:~$ cat status.txt
 ```
-> ✅ **Passed the 42 Piscine** — C & shell qualifying stage · Morocco 🇲🇦
+"I don't code to work. I code because it's fun to make things work."
 
 <br/>
 
